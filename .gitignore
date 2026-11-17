@@ -1,0 +1,24 @@
+# Java / Maven
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/.factorypath
+**/.idea/
+**/*.iml
+**/.vscode/
+
+# OS files
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.env.*
+
+# Maven wrapper jars if generated locally
+.mvn/wrapper/*.jar
